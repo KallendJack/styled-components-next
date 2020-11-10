@@ -1,7 +1,5 @@
-import ExampleComponent from '../components/ExampleComponent/ExampleComponent'
-
 const Index = () => {
-  return <ExampleComponent />
+  return <>Styled Components Next</>
 }
 
 export default Index
